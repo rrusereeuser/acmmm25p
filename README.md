@@ -7,7 +7,7 @@ The official repository of the paper [PTalker: Personalized Speech-Driven 3D Tal
     | 
     <a href="http://acmmm25p.bwbwiwn.site/">Project Page</a>
     |
-    <a href="https://github.com/rrusereeuser/PTalker">Code</a> 
+    <a href="https://github.com/wangryhen/PTalker/tree/main">Code</a> 
   </b>
 </p> 
 
