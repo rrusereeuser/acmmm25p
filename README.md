@@ -1,5 +1,5 @@
 # PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment
-The official repository of the paper [PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment](https://arxiv.org/abs/)
+The official repository of the paper [PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment](https://dl.acm.org/doi/abs/10.1145/3746027.3755568)
 
 <p align='center'>
   <b>
