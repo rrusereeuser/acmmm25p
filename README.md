@@ -22,24 +22,15 @@ Given a speech signal as input, our framework <strong>PTalker</strong> can gener
 ## Demos
 - Please click the Project Page.
 
-## TODO
-- [x] **Release Arxiv paper.**
-- [x] **Release Project Page.**
-- [ ] **Release code. (Once the paper is accepted)**
-- [ ] **Release Pre-trained Model. (Once the paper is accepted)**
-
-
-
 ## Citation	
 
 ```
-@article{2025ptalker,
+@inproceedings{wang2025ptalker,
   title={PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment},
-  author={},
-  year={2025},
-  eprint={},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  author={Wang, Bin and Xu, Yang and Zhao, Huan and Zhang, Hao and Zhang, Zixing},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={10334--10342},
+  year={2025}
 }
 ```
 
