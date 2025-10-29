@@ -3,7 +3,7 @@ The official repository of the paper [PTalker: Personalized Speech-Driven 3D Tal
 
 <p align='center'>
   <b>
-    <a href="">Paper</a>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755568">Paper</a>
     | 
     <a href="http://acmmm25p.bwbwiwn.site/">Project Page</a>
     |
